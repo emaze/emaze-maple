@@ -97,7 +97,7 @@ You can pull it from the central Maven repositories:
 <dependency>
   <groupId>net.emaze</groupId>
   <artifactId>emaze-maple</artifactId>
-  <version>2.2</version>
+  <version>2.3</version>
 </dependency>
 ```
 
