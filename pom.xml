@@ -94,6 +94,7 @@
         </plugins>
     </build>
     <scm>
+        <url>https://github.com/emaze/emaze-maple</url>
         <developerConnection>scm:git:file://${basedir}</developerConnection>
         <tag>HEAD</tag>
     </scm>
