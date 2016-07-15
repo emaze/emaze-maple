@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.emaze</groupId>
     <artifactId>emaze-maple</artifactId>
-    <version>2.3-SNAPSHOT</version>
+    <version>2.3</version>
     <name>emaze-maple</name>
     <description>A mapper</description>
     <url>https://github.com/emaze/emaze-maple</url>
@@ -114,6 +114,6 @@
     <scm>
         <url>https://github.com/emaze/emaze-maple</url>
         <developerConnection>scm:git:file://${basedir}</developerConnection>
-        <tag>HEAD</tag>
+        <tag>2.3</tag>
     </scm>
 </project>
