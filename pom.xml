@@ -4,6 +4,16 @@
     <groupId>net.emaze</groupId>
     <artifactId>emaze-maple</artifactId>
     <version>2.3-SNAPSHOT</version>
+    <name>emaze-maple</name>
+    <description>A mapper</description>
+    <url>https://github.com/emaze/emaze-maple</url>
+    <licenses>
+        <license>
+            <name>CC BY-SA 4.0</name>
+            <url>https://creativecommons.org/licenses/by-sa/4.0/</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>   
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -93,6 +103,14 @@
             </plugin>
         </plugins>
     </build>
+    <developers>
+        <developer>
+            <id>emaze-dev</id>
+            <name>Emaze Developers</name>
+            <email>dev@emaze.net</email>
+        </developer>
+    </developers>
+    
     <scm>
         <url>https://github.com/emaze/emaze-maple</url>
         <developerConnection>scm:git:file://${basedir}</developerConnection>
